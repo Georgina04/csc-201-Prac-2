@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prac 2", "Prac 2\Prac 2.csproj", "{72EA4F32-985B-4E81-AE88-EADB5510C550}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C3C68D3B-4744-4D30-B7AE-FA444148BDED}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documents\Rhodes University 2019\ComSci 201\Prac 2\Prac2Files\IntegerList.cs = ..\..\..\..\OneDrive\Documents\Rhodes University 2019\ComSci 201\Prac 2\Prac2Files\IntegerList.cs
+		..\..\..\..\OneDrive\Documents\Rhodes University 2019\ComSci 201\Prac 2\Prac2Files\IntegerVector.cs = ..\..\..\..\OneDrive\Documents\Rhodes University 2019\ComSci 201\Prac 2\Prac2Files\IntegerVector.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72EA4F32-985B-4E81-AE88-EADB5510C550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72EA4F32-985B-4E81-AE88-EADB5510C550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72EA4F32-985B-4E81-AE88-EADB5510C550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72EA4F32-985B-4E81-AE88-EADB5510C550}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CB5AB64-26A9-4A8B-96CD-B994CD654A62}
+	EndGlobalSection
+EndGlobal
